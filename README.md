@@ -1,5 +1,5 @@
 # Repositório do RPG Naruto
-* Criadores: Bruno Finatto, Bruno Lima, Davi Neves, Lucas Uszacki, Otávio Lessa, Otávio Parraga e Pietro Witt Gasparin
+* Criadores: Bruno Finatto, Bruno Lima, Davi Neves, Henrique Pinho, Lucas Uszacki, Otávio Lessa, Otávio Parraga e Pietro Witt Gasparin
 
 ## Arquivos:
 * **[RPG Naruto - Armas & Mercadorias]('./../RPG%20Naruto%20-%20Armas%20&%20Mercadorias.pdf)**: Livro referente às armas e objetos do mundo ninja. Vão de uma simples agulha ou guizo até as espadas lendárias vistas no anime.
